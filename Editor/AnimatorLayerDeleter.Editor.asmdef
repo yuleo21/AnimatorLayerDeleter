@@ -1,0 +1,21 @@
+{
+    "name": "AnimatorLayerDeleter.Editor",
+    "rootNamespace": "AnimatorLayerDeleterTool",
+    "references": [
+        "AnimatorLayerDeleter.Runtime",
+        "nadena.dev.ndmf",
+        "VRC.SDKBase",
+        "VRC.SDK3A"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

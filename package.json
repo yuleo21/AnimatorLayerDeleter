@@ -1,0 +1,18 @@
+{
+  "name": "net.yuleo21.animatorlayerdeleter",
+  "displayName": "AnimatorLayerDeleter",
+  "version": "0.1.0",
+  "author": {
+    "name": "yuleo21",
+    "url": "https://github.com/yuleo21"
+  },
+  "unity": "2022.3",
+  "description": "A NDMF plugin that removes specified Animator layers from VRChat avatar Playable Layers at build time.",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.5.0",
+    "nadena.dev.ndmf": ">=1.5.0"
+  },
+  "legacyFolders": {
+    "Assets\\AnimatorLayerDeleter": ""
+  }
+}
